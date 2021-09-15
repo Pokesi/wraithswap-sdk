@@ -14,7 +14,7 @@ First clone the repository:
 git clone https://github.com/sy-finance/wraithswap-sdk.git
 ```
 
-Move into the sushiswap-sdk working directory
+Move into the wraithswap-sdk working directory
 
 ```sh
 cd wraithswap-sdk/
